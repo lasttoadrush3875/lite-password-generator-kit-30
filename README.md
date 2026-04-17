@@ -1,2 +1,9 @@
-# lite-password-generator-kit-30
-A simple password generator project
+# Password Generator
+
+A simple command-line password generator.
+\n
+## Usage
+
+```
+python main.py
+```
